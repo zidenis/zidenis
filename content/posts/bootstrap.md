@@ -1,7 +1,8 @@
 ---
 title: "Bootstrap"
+author: "zidenis"
 date: 2022-08-21T15:57:04-03:00
-draft: true
+draft: false
 tags: ["blog"]
 categories: []
 keywords: ["bootstrap", "blog", "hugo", "github"]
