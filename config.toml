@@ -1,0 +1,5 @@
+baseURL = "https://zidenis.github.io"
+languageCode = "pt-br"
+title = "zidenis blog"
+theme = "bootstrap4-blog"
+publishdir = "zidenis.github.io"
